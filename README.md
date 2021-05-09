@@ -1,24 +1,23 @@
-# vue-graphql
+# Vue Apollo
+> Simple example of how to use vue apollo and connect graphQL endpoint.
 
-## Project setup
-```
-yarn install
-```
+## Feature
+- Fetch data by setting up free graphQL endpoint
+- Load more functionality which is provided by vue-apollo 
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Getting started
+These are the instructions to setup this graphQL example in your local machine.
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## GraphQL Endpoint
+> https://api.spacex.land/graphql
 
-### Lints and fixes files
-```
-yarn lint
+## Installation
+```sh
+cd vue-graphql
+yarn
+yarn run serve
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## License
+MIT
+
